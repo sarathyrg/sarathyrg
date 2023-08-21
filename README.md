@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarathyrg
-- 👀 I’m interested in devoper
+- 👀 I’m interested in developer
 - 🌱 I’m currently learning full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 7402104890
